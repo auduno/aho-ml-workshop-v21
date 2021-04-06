@@ -56,12 +56,13 @@ Teachable machine models in p5.js:
 * PoseNet : https://editor.p5js.org/auduno/sketches/VaMqUyZJO
 
 Examples of combining teachable machine models to do something in p5.js :
-* Recognition of hand signals : https://editor.p5js.org/auduno/sketches/Pg6HudXJW
+* Recognition of hand signals : https://editor.p5js.org/auduno/sketches/6L43dcupy
 * Audio control : https://editor.p5js.org/auduno/sketches/8bQUExhTX
 * Medal + cheers with posenet : https://editor.p5js.org/auduno/sketches/OCo40cnQ7
 
-Bonus example:
-* Handpose in p5js : https://editor.p5js.org/yining/sketches/2dXLFrpl-
+Bonus examples:
+* https://editor.p5js.org/ml5/sketches/Facemesh_Webcam
+* https://editor.p5js.org/ml5/sketches/Handpose_Webcam
 
 Resources:
 * [p5.js](https://p5js.org/)
