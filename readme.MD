@@ -87,6 +87,10 @@ Resources:
 * https://cs.stanford.edu/people/karpathy/cnnembed/
 * https://projector.tensorflow.org/
 
+### Sequential classifier models
+* [Sentiment analysis in p5js](https://editor.p5js.org/ml5/sketches/Sentiment_Interactive)
+* [Quick, Draw](https://quickdraw.withgoogle.com/)
+
 ### Generative Machine Learning
 
 Generative drawing:
