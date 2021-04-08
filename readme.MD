@@ -101,12 +101,13 @@ Generative drawing:
 * [Generative handwriting](https://distill.pub/2016/handwriting/)
 
 Generative text:
-* [Talk to transformer](https://talktotransformer.com/)
-* [Text Synth (free alternative to Talk to transformer)](https://bellard.org/textsynth/)
 * [CharRNN in ml5js](https://ml5js.org/reference/api-charRNN/)
     * [Training your own char-rnn](https://github.com/ml5js/training-charRNN)
+* [Talk to transformer](https://talktotransformer.com/)
+* [Text Synth (free alternative to Talk to transformer)](https://bellard.org/textsynth/)
 * [Generating code with transformer models (example starts at 28:45)](https://twitter.com/i/broadcasts/1OyKAYWPRrWKb)
 * [AI Dungeon](https://play.aidungeon.io/main/landing)
+* [Article on turing-testing GPT-3](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html)
 
 Generative music/sound:
 * [Performance RNN](https://magenta.tensorflow.org/demos/performance_rnn/index.html)
