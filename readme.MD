@@ -77,7 +77,7 @@ Resources:
 * How spotify recommender works : https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good/
 * Convolutional nets for audio classification (Spotify) : https://benanne.github.io/2014/08/05/spotify-cnns.html
 * Netflix recommendations : https://uxplanet.org/netflix-binging-on-the-algorithm-a3a74a6c1f59
-* How facebook news feed : https://tech.fb.com/news-feed-ranking/
+* How facebook news feed works : https://tech.fb.com/news-feed-ranking/
 
 ### Similarity maps
 
