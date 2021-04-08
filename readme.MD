@@ -144,3 +144,15 @@ Conditional GANs / Image translation:
 
 Hands-on:
 * [Runway ML](https://runwayml.com/)
+
+### Collecting images
+
+Potential sources of images :
+* Google image search : https://images.google.com
+* Nasjonalbiblioteket bilder : https://www.nb.no/search?mediatype=bilder
+* Digitalt museum : https://digitaltmuseum.no/search/?q=stol
+* Flickr : https://flickr.com/search/
+* A variety of botanical illustrations from Flickr : https://www.flickr.com/photos/biodivlibrary/albums
+
+Tools:
+* Download all images chrome extension : https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en
