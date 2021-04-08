@@ -121,3 +121,26 @@ Generative music/sound:
     * [Africa continuation example](https://www.youtube.com/watch?v=ZTgWIBT7lr4)
     * [Scatman John continuation example](https://www.youtube.com/watch?v=swoaYZ2btt0)
     * [Daft Punk continuation example](https://www.youtube.com/watch?v=R7n8VO3Rpuo)
+
+### Generative Adversarial Networks
+
+GAN examples:
+* BigGAN class visualization : https://www.youtube.com/watch?v=YY6LrQSxIbc&feature=youtu.be
+* StyleGAN presentation : https://www.youtube.com/watch?v=kSLJriaOumA&feature=youtu.be&t=25s
+* StyleGAN faces : https://thispersondoesnotexist.com/
+* StyleGAN cars interpolation : https://youtu.be/OLZ3-ZJwSu4
+* StyleGAN trained on photobooth photos : https://www.reddit.com/r/Damnthatsinteresting/comments/9udese/plugging_50000_portraits_into_facial/?utm_source=share&utm_medium=web2x
+* StyleGAN trained on Garfield : https://twitter.com/calamardh/status/1148655219032690692
+* A bit technical article on training stylegan models : https://www.gwern.net/Faces
+
+Conditional GANs / Image translation:
+* [Pix2Pix Demo](https://affinelayer.com/pixsrv/)
+* [Edges2Pikachu](https://yining1023.github.io/pix2pix_tensorflowjs_lite/)
+* [Celebrity Pix2Pix](https://zaidalyafeai.github.io/pix2pix/celeb.html)
+* [GauGAN/SPADE online](https://nvlabs.github.io/SPADE/demo.html)
+* [Pix2pix applied to video](https://vimeo.com/260612034)
+* [Pix2pix applied to architecture (spacemaker)](https://towardsdatascience.com/ai-architecture-f9d78c6958e0)
+* [Edges2Santas](https://auduno.com/pix2pix_tensorflowjs_lite/)
+
+Hands-on:
+* [Runway ML](https://runwayml.com/)
