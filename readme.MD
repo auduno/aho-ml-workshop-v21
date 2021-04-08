@@ -70,3 +70,49 @@ Resources:
 * [Some more details on PoseNet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 * [Teachable Machine](https://teachablemachine.withgoogle.com)
 
+## Day 2 : Workshop, similarity and search, Generative ML
+
+### Search and Recommendations
+
+* How spotify recommender works : https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good/
+* Convolutional nets for audio classification (Spotify) : https://benanne.github.io/2014/08/05/spotify-cnns.html
+* Netflix recommendations : https://uxplanet.org/netflix-binging-on-the-algorithm-a3a74a6c1f59
+* How facebook news feed : https://tech.fb.com/news-feed-ranking/
+
+### Similarity maps
+
+* http://vy.nasjonalmuseet.no
+* http://fontmap.ideo.com/
+* https://experiments.withgoogle.com/ai/drum-machine/view/
+* https://cs.stanford.edu/people/karpathy/cnnembed/
+* https://projector.tensorflow.org/
+
+### Generative Machine Learning
+
+Generative drawing:
+* [SketchRNN](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+    * [Some more info on the sketch dataset](https://www.blog.google/technology/ai/quick-draw-one-billion-drawings-around-world/)
+* [SketchRNN in p5js](https://editor.p5js.org/ml5/sketches/SketchRNN_basic)
+* [SketchRNN interactive in p5js](https://editor.p5js.org/ml5/sketches/SketchRNN_interactive)
+* [Generative handwriting](https://distill.pub/2016/handwriting/)
+
+Generative text:
+* [Talk to transformer](https://talktotransformer.com/)
+* [Text Synth (free alternative to Talk to transformer)](https://bellard.org/textsynth/)
+* [CharRNN in ml5js](https://ml5js.org/reference/api-charRNN/)
+    * [Training your own char-rnn](https://github.com/ml5js/training-charRNN)
+* [Generating code with transformer models (example starts at 28:45)](https://twitter.com/i/broadcasts/1OyKAYWPRrWKb)
+* [AI Dungeon](https://play.aidungeon.io/main/landing)
+
+Generative music/sound:
+* [Performance RNN](https://magenta.tensorflow.org/demos/performance_rnn/index.html)
+* [Folk-RNN](https://folkrnn.org/)
+* [Google Bach Doodle RNN](https://www.google.com/doodles/celebrating-johann-sebastian-bach) - more info [here](https://magenta.tensorflow.org/coconet)
+* [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en)
+* [Musenet](https://openai.com/blog/musenet/)
+* [Music transformer](https://magenta.tensorflow.org/music-transformer)
+* [Jukebox](https://openai.com/blog/jukebox/)
+    * [A-ha continuation example](https://www.youtube.com/watch?v=uSWTSML9hwY)
+    * [Africa continuation example](https://www.youtube.com/watch?v=ZTgWIBT7lr4)
+    * [Scatman John continuation example](https://www.youtube.com/watch?v=swoaYZ2btt0)
+    * [Daft Punk continuation example](https://www.youtube.com/watch?v=R7n8VO3Rpuo)
