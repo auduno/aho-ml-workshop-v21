@@ -174,7 +174,7 @@ CLIP-GLaSS (CLIP + StyleGAN) :
 
 * DALL·E : https://openai.com/blog/dall-e/
 
-### Considerations when working with Machine Learning in the real world
+### Machine Learning in the real world
 
 Design resources:
 * [People + AI Guidebook](https://pair.withgoogle.com/)
