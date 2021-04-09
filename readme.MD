@@ -171,3 +171,10 @@ CLIP:
 CLIP-GLaSS (CLIP + StyleGAN) :
 * Default : https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49
 * With your trained model : https://colab.research.google.com/drive/1OHmnnV3CuHxTuQ9wIY8ea9SFBkcKjY_J
+
+* DALL·E : https://openai.com/blog/dall-e/
+
+### Considerations when working with Machine Learning in the real world
+
+Design resources:
+* [People + AI Guidebook](https://pair.withgoogle.com/)
