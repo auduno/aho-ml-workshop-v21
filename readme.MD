@@ -159,7 +159,7 @@ Tools:
 
 # Day 3 : Training models, Multi-modal models
 
-### Controlling generation
+### Controlling StyleGAN
 
 * Artbreeder : https://www.artbreeder.com/browse
 
